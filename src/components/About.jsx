@@ -113,7 +113,7 @@ const About = () => {
             {/* Profile Image */}
             <motion.img
               src={asset.profile}
-              alt="Abhishek Profile"
+              alt="Mohd Saif Profile"
               className="rounded-full w-full h-full object-cover shadow-2xl border-8 border-white/90 relative z-10"
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}

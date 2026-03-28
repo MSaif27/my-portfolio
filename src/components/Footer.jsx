@@ -77,7 +77,7 @@ const Footer = () => {
           {/* Brand Section */}
           <motion.div variants={itemVariants} className="space-y-4">
             <h3 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">
-              Abhishek Kumar
+              Mohd Saif Kumar
             </h3>
             <p className="text-gray-400">
               Full-stack developer passionate about creating impactful solutions
@@ -85,7 +85,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-6 text-xl">
               <motion.a
-                href="https://www.linkedin.com/in/abhishek6725/"
+                href="https://www.linkedin.com/in/Mohd Saif6725/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-blue-400 transition-colors"
@@ -94,7 +94,7 @@ const Footer = () => {
                 <FaLinkedin />
               </motion.a>
               <motion.a
-                href="https://github.com/Abhishek6725"
+                href="https://github.com/Mohd Saif6725"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-gray-100 transition-colors"
@@ -156,7 +156,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <FaEnvelope className="text-blue-400" />
-                <span>abhishek777661@gmail.com</span>
+                <span>Mohd Saif777661@gmail.com</span>
               </div>
             </div>
           </motion.div>
@@ -171,7 +171,7 @@ const Footer = () => {
           viewport={{ once: true, amount: 0.3 }}
         >
           <p>
-            © {new Date().getFullYear()} Abhishek Kumar. Crafted with ❤️ using
+            © {new Date().getFullYear()} Mohd Saif Kumar. Crafted with ❤️ using
             React & Tailwind
           </p>
         </motion.div>
